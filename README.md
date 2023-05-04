@@ -1,2 +1,2 @@
 # Car-Site
-CarSite is a website by using HTML and Css with responsive design.
+CarSite is a responsive website by using HTML, Css3 and JavaScript.
